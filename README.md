@@ -6,7 +6,7 @@
                
                You can make your Id , Please check email in spam for otp
                You can use my Id as well for testing
-               Email : amansinghbiuri@gmail.com
+               Email : tinkukumar@gmail.com
                Password : 1212
 
 
