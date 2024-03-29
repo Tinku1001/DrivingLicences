@@ -39,8 +39,3 @@
      PORT = 4000
      you can add you mongodb url in ./server/config/database.js file .
 
-
-
-![Main Page](image/driving_home.png)
-Online Driving Licensing is a fully functional  platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
-
