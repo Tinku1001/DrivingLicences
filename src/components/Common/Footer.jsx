@@ -34,7 +34,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with  Aman Singh © 2024</div>
+          <div className="text-center">Made with  Tinku kumar © 2024</div>
         </div>
       </div>
     </div>
